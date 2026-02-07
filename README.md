@@ -38,4 +38,8 @@ git branch -M main
 git remote add origin git@github.com:willyrj/jenkins_tests.git
 git push -u origin main
 
+## Download repo del curso
+https://github.com/sandervanvugt/gitops/tree/main
+
+
 
